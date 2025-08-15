@@ -10,7 +10,7 @@ A Python-based resume parser leveraging spaCy for NER, regex for entity retrieva
 ## Usage
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/pranavpatil2316/Resume-Parser
 cd Resume-Parser
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
